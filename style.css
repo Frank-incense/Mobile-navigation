@@ -105,9 +105,9 @@ section.profile .container{
 
 .selected{
     background-color: var(--bg-color);
+}
+#nav i{
+    font-size: 1.3em;
     padding: 5px;
     border-radius: 10px;
-}
-.navbuttons i{
-    font-size: 1.3em;
 }
